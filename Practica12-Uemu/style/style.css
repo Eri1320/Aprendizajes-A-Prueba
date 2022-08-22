@@ -101,14 +101,14 @@ nav {
     width: 610px;
     height: 610px;
     border-radius: 50%;
-    background-image: url(UemuDog.gif);
+    background-image: url(https://media.giphy.com/media/KCQpvb7dLCRgWbfYQJ/giphy-downsized-large.gif);
     position: absolute;
     top: 470px;
     left: 650px;
 }
 
 #UemuKiss {
-    background-image: url(UemuKiss.gif);
+    background-image: url(https://media.giphy.com/media/i7VI9dxJ9j1E2bm3Zz/giphy.gif);
     width: 480px;
     height: 480px;
     border-radius: 50%;
@@ -118,7 +118,7 @@ nav {
 }
 
 #Uemu-vestido {
-    background-image: url(Uemu-vestido.gif);
+    background-image: url(https://media.giphy.com/media/h81HrshmIoc78att4G/giphy-downsized-large.gif);
     width: 280px;
     height: 280px;
     border-radius: 50%;
@@ -128,7 +128,7 @@ nav {
 }
 
 #UemuPrincess {
-    background-image: url(UemuPrincess.gif);
+    background-image: url(https://media.giphy.com/media/73obrcd92AjhOlnpVL/giphy-downsized-large.gif);
     width: 280px;
     height: 280px;
     border-radius: 50%;
@@ -138,7 +138,7 @@ nav {
 }
 
 #Uemu-Comida {
-    background-image: url(Uemu-Karin-Comida.gif);
+    background-image: url(https://media.giphy.com/media/U41ibxRe8aPxanpy1I/giphy-downsized-large.gif);
     width: 280px;
     height: 280px;
     border-radius: 50%;
