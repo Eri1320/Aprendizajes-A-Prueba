@@ -1,3 +1,7 @@
+:root {
+  text-decoration: none;
+}
+
 body {
   background-image: url(estrellas-de-fondo.svg);
 }
@@ -48,7 +52,6 @@ header {
       #d920b9,
       #eb2cc1,
       #fd37c8);
-  ;
 }
 
 /* Primeras Cajas */
