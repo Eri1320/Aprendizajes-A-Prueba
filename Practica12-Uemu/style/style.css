@@ -1,0 +1,154 @@
+body {
+    background-color: #25ff5a;
+}
+
+header {
+    background-color: #F4FBF3;
+    margin: -8px;
+    padding: 5px;
+}
+
+footer {
+    background-color: #F4FBF3;
+    margin: -8px;
+    height: 50px;
+    padding: 20px;
+    color: black;
+    font-style: oblique;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -50px;
+}
+
+nav {
+    background-color: #F4FBF3;
+    height: 30px;
+    text-align: right;
+}
+
+.menu {
+    padding: 20px;
+    text-decoration: none;
+}
+
+#Icono {
+    width: 50px;
+    height: 50px;
+}
+
+#Titulo-Barra {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#Titulo-Principal {
+    width: 590px;
+    margin-top: 100px;
+    font-weight: lighter;
+    position: relative;
+    left: 30px;
+}
+
+#Titulo-Grande {
+    width: 280px;
+    font-weight: bolder;
+    font-size: 100px;
+    color: #1B4975;
+    position: relative;
+    bottom: 20px;
+    left: 30px;
+}
+
+#parrafo {
+    width: 500px;
+    position: relative;
+    left: 35px;
+    bottom: 50px;
+    font-size: 20px;
+}
+
+.imagenes-cortas {
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.imagen-enorme {
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.imagen-grande {
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.imagen-grande:hover {
+    background-size: 600px;
+}
+
+.imagen-enorme:hover {
+    background-size: 800px;
+}
+
+.imagenes-cortas:hover {
+    background-size: 400px;
+}
+
+#UemuDog {
+    width: 610px;
+    height: 610px;
+    border-radius: 50%;
+    background-image: url(UemuDog.gif);
+    position: absolute;
+    top: 470px;
+    left: 650px;
+}
+
+#UemuKiss {
+    background-image: url(UemuKiss.gif);
+    width: 480px;
+    height: 480px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 50px;
+    left: 30px;
+}
+
+#Uemu-vestido {
+    background-image: url(Uemu-vestido.gif);
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 150px;
+    left: 300px;
+}
+
+#UemuPrincess {
+    background-image: url(UemuPrincess.gif);
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    position: absolute;
+    left: 650px;
+    top: 1105px;
+}
+
+#Uemu-Comida {
+    background-image: url(Uemu-Karin-Comida.gif);
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    position: absolute;
+    left: 980px;
+    top: 1105px;
+}
+
+.redes {
+    width: 35px;
+    height: 35px;
+    padding-left: 10px;
+}

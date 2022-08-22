@@ -1,0 +1,146 @@
+header {
+  background-color: black;
+  color: white;
+  margin: -8px;
+  padding: 5px;
+}
+
+#Icono {
+  width: 50px;
+  height: 50px;
+}
+
+#Titulo-barra {
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+  background: repeating-linear-gradient(90deg,
+      #800000 0%,
+      #800000 80%,
+      black 80%,
+      black 100%);
+}
+
+#CajaDeFormulario {
+  text-align: left;
+  color: white;
+  margin-left: 100px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#Subtitulo {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#Texto {
+  font-size: 20px;
+}
+
+.Formulario {
+  width: 260px;
+  height: 50px;
+  color: black;
+  background-color: white;
+  border-color: black;
+}
+
+::placeholder {
+  color: black;
+}
+
+#email {
+  position: relative;
+  bottom: 15px;
+  left: 120px;
+  color: white;
+  width: 150px;
+}
+
+#Cell {
+  position: relative;
+  bottom: 120px;
+  left: 400px;
+  color: white;
+  width: 280px;
+}
+
+#Fecha {
+  color: white;
+  position: relative;
+  left: 120px;
+  bottom: 100px;
+  width: 250px;
+}
+
+#Color {
+  color: white;
+  position: relative;
+  left: 400px;
+  bottom: 200px;
+  width: 250px;
+}
+
+#Motivo {
+  color: white;
+  position: relative;
+  left: 120px;
+  bottom: 200px;
+  width: 250px;
+}
+
+#CajaDeTexto {
+  width: 540px;
+  height: 200px;
+  text-align: left;
+}
+
+#boton {
+  text-align: center;
+  width: 200px;
+  height: 50px;
+  position: relative;
+  bottom: 170px;
+  left: 120px;
+  color: white;
+  background-color: black;
+}
+
+#Imagen {
+  width: 600px;
+  height: 449px;
+  position: absolute;
+  top: 430px;
+  left: 749px;
+  border-radius: 5px;
+}
+
+.icono {
+  width: 30px;
+  height: 30px;
+}
+
+#cajadeiconos {
+  position: absolute;
+  top: 889px;
+  left: 1126px;
+  padding: 5px;
+  width: 170px;
+  height: 40px;
+}
+
+footer {
+  padding: 30px;
+  background-color: black;
+  color: white;
+  height: 20px;
+  margin: -8px;
+  text-align: center;
+}

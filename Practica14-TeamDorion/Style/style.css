@@ -1,0 +1,207 @@
+header {
+  font-weight: bold;
+  background-color: black;
+  margin: -8px;
+  padding: 5px;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+
+#cabeza-animada {
+  animation-name: cabecera-animada;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes cabecera-animada {
+  0% {
+    background-color: #00913f;
+  }
+
+  25% {
+    background-color: #572364;
+  }
+
+  75% {
+    background-color: #ff8000;
+  }
+
+  100% {
+    background-color: #c00000;
+  }
+
+}
+
+#logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+#menu {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: 5px;
+  left: 450px;
+}
+
+body {
+  background-color: #f4f4f4;
+}
+
+#TituloPrincipal {
+  font-size: 80px;
+  text-align: center;
+}
+
+#Subtitulo {
+  font-size: 50px;
+  text-align: center;
+  color: black;
+}
+
+.cajas {
+  width: 270px;
+  height: 540px;
+  border-radius: 5px;
+  text-align: center;
+  border-style: solid;
+
+}
+
+.cajas-animadas1:hover {
+  zoom: 101%;
+  cursor: pointer;
+}
+
+.cajas-animadas2:hover {
+  zoom: 100.5%;
+  cursor: pointer;
+}
+
+.cajas-animadas3:hover {
+  zoom: 100.5%;
+  cursor: pointer;
+}
+
+.cajas-animadas4:hover {
+  zoom: 100.5%;
+  cursor: pointer;
+}
+
+.cajasmovibles {
+  position: absolute;
+}
+
+#caja1 {
+  background-color: #00b54f;
+  position: relative;
+  left: 80px;
+}
+
+#caja2 {
+  background-color: #88379c;
+  left: 380px;
+  top: 362px;
+}
+
+#caja3 {
+  background-color: #ffa040;
+  left: 670px;
+  top: 362px;
+}
+
+#caja4 {
+  background-color: #ff4040;
+  left: 960px;
+  top: 362px;
+}
+
+.imagenes {
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  position: relative;
+  left: 35px;
+  top: 20px;
+}
+
+#imagen1 {
+  background-image: url(Momoyo.png);
+  background-size: cover;
+}
+
+#imagen2 {
+  background-image: url(Asuka.png);
+  background-size: cover;
+}
+
+#imagen3 {
+  background-image: url(Honoka.png);
+  background-size: cover;
+}
+
+#imagen4 {
+  background-image: url(Ami.png);
+  background-size: cover;
+}
+
+.iconos-redes {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  top: 20px;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+  font-style: italic;
+  color: white;
+}
+
+#subsub {
+  text-align: center;
+}
+
+footer {
+  background-color: black;
+  margin: -8px;
+  padding: 100px;
+  margin-top: 50px;
+  color: white;
+  text-align: center;
+}
+
+#pie-animado {
+  animation-name: cabecera-animada;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes pie-animado {
+  0% {
+    background-color: #00913f;
+  }
+
+  25% {
+    background-color: #572364;
+  }
+
+  75% {
+    background-color: #ff8000;
+  }
+
+  100% {
+    background-color: #c00000;
+  }
+
+}

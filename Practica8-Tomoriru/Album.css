@@ -1,0 +1,84 @@
+:root {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+  background-color: black;
+  margin: -8px;
+  padding: 6px;
+}
+
+body {
+  background: repeating-linear-gradient(90deg,
+      #4a3074 0%,
+      #4a3074 50%,
+      #303874 50%,
+      #303874 100%);
+}
+
+#logo {
+  width: 50px;
+  height: 50px;
+}
+
+#TituloPrincipal {
+  font-size: 40px;
+  color: white;
+}
+
+.redes-menu {
+  text-align: right;
+  font-size: 20px;
+  margin-left: 20px;
+  position: relative;
+  left: 520px;
+  color: white;
+  text-decoration: none;
+}
+
+#Menu-Icono {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: 5px;
+  left: 550px;
+}
+
+.nombre {
+  text-decoration: overline;
+}
+
+#Titulo1 {
+  text-align: left;
+  font-size: 60px;
+  position: relative;
+  top: 60px;
+  margin-left: 60px;
+  color: white;
+}
+
+#Texto1 {
+  text-align: left;
+  font-weight: bold;
+  font-size: 30px;
+  position: relative;
+  top: 50px;
+  margin-left: 60px;
+  color: white;
+}
+
+#iframe {
+  position: relative;
+  left: 720px;
+  bottom: 190px;
+  width: 550px;
+  height: 550px;
+}
+
+footer {
+  background-color: white;
+  margin: -8px;
+  padding: 20px;
+  text-align: center;
+  color: black;
+}

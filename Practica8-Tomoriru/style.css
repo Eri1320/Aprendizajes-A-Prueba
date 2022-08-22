@@ -1,0 +1,102 @@
+:root {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+  background-color: black;
+  margin: -8px;
+  padding: 6px;
+}
+
+body {
+  background: repeating-linear-gradient(90deg,
+      #4a3074 0%,
+      #4a3074 50%,
+      #303874 50%,
+      #303874 100%);
+}
+
+#logo {
+  width: 50px;
+  height: 50px;
+}
+
+#TituloPrincipal {
+  font-size: 40px;
+  color: white;
+}
+
+.redes-menu {
+  text-align: right;
+  font-size: 20px;
+  margin-left: 20px;
+  position: relative;
+  left: 490px;
+  color: white;
+  text-decoration: none;
+}
+
+#Disco-Icono {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  top: 5px;
+  left: 520px;
+}
+
+.nombre {
+  text-decoration: overline;
+}
+
+#Titulo1 {
+  text-align: left;
+  font-size: 60px;
+  position: relative;
+  top: 60px;
+  margin-left: 60px;
+  color: white;
+}
+
+#Texto1 {
+  text-align: left;
+  font-weight: bold;
+  font-size: 30px;
+  position: relative;
+  top: 50px;
+  margin-left: 60px;
+  color: white;
+}
+
+#texto-largo {
+  text-align: justify;
+  font-size: 19px;
+  width: 365px;
+  position: absolute;
+  bottom: 15%;
+  left: 480px;
+  color: white;
+}
+
+#Lista {
+  float: right;
+  position: relative;
+  bottom: 20px;
+  font-weight: bold;
+  font-size: 25px;
+  margin-right: 200px;
+  line-height: 40px;
+}
+
+.nolink {
+  text-decoration: none;
+  color: white;
+}
+
+footer {
+  background-color: white;
+  margin: -8px;
+  padding: 20px;
+  text-align: center;
+  margin-top: 394px;
+  color: black;
+}
