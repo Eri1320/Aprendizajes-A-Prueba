@@ -92,13 +92,13 @@ header {
 #PlasticLove {
   position: absolute;
   left: 500px;
-  top: 568px;
+  top: 570px;
 }
 
 #Tomori {
   position: absolute;
   left: 500px;
-  top: 918px;
+  top: 920px;
 }
 
 #Ruru {
@@ -110,7 +110,7 @@ header {
 #TeamDorion {
   position: absolute;
   left: 500px;
-  top: 1615px;
+  top: 1620px;
 }
 
 /* Cajas finales */
@@ -125,14 +125,14 @@ header {
   position: absolute;
   left: 890px;
   bottom: 105px;
-  top: 568px;
+  top: 570px;
 }
 
 #Kukugumi {
   position: absolute;
   left: 890px;
   bottom: 105px;
-  top: 918px;
+  top: 920px;
 }
 
 #Uemu {
@@ -146,7 +146,7 @@ header {
   position: absolute;
   left: 890px;
   bottom: 105px;
-  top: 1615px;
+  top: 1620px;
 }
 
 /* Lado Blanco de las cajas */
