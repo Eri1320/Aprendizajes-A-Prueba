@@ -1,0 +1,318 @@
+body {
+  background-color: #1B2121;
+}
+
+#icono-torre {
+  width: 50px;
+  height: 50px;
+}
+
+#barra {
+  background-color: #466B69;
+  margin: -8px;
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+#down {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  left: 930px;
+}
+
+#titulo1 {
+  color: #6AA25B;
+  text-shadow: 50px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.letrasconplayball {
+  font-family: 'Playball', 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: white;
+}
+
+#up {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  left: 690px;
+}
+
+#JuicePie {
+  position: relative;
+  bottom: 10px;
+}
+
+#pie {
+  text-align: center;
+  margin: -8px;
+  padding: 10px;
+  animation-name: plastic-animado;
+  animation-duration: 30s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes plastic-animado {
+  0% {
+    background-color: #730b0c;
+  }
+
+  5% {
+    background-color: #00590b;
+  }
+
+  10% {
+    background-color: #59004b;
+  }
+
+  15% {
+    background-color: #7d4e00;
+  }
+
+  20% {
+    background-color: #FEFFF7;
+  }
+
+  25% {
+    background-color: #000FA8;
+  }
+
+  30% {
+    background-color: #6D1F64;
+  }
+
+  35% {
+    background-color: #1B5F6D;
+  }
+
+  40% {
+    background-color: #5B436D;
+  }
+
+  45% {
+    background-color: #818024;
+  }
+
+  50% {
+    background-color: #452463;
+  }
+
+  55% {
+    background-color: #226D43;
+  }
+
+  60% {
+    background-color: #EEC536;
+  }
+
+  65% {
+    background-color: #C18000;
+  }
+
+  70% {
+    background-color: #C49192;
+  }
+
+  75% {
+    background-color: #455ADB
+  }
+
+  80% {
+    background-color: #5D15C1;
+  }
+
+  85% {
+    background-color: #FF00CB;
+  }
+
+  90% {
+    background-color: #00FF34;
+  }
+
+  95% {
+    background-color: #7A5956;
+  }
+
+  100% {
+    background-color: #679789;
+  }
+}
+
+#caja1 {
+  background-image: url(Tomoko.jpg);
+  background-size: cover;
+  width: 600px;
+  height: 450px;
+  border-radius: 10px;
+  margin: left;
+  color: white;
+  position: relative;
+  left: 20px;
+  bottom: 40px;
+  padding: 5px;
+}
+
+.nombre {
+  text-align: center;
+  position: relative;
+  bottom: 5px;
+  color: White;
+  text-transform: uppercase;
+  width: 50px;
+  text-shadow: 10px 10px #1B5F6D;
+}
+
+.apellido {
+  text-align: center;
+  position: relative;
+  bottom: 155px;
+  left: 550px;
+  color: white;
+  text-transform: uppercase;
+  width: 50px;
+  text-shadow: 10px 10px #1B5F6D;
+}
+
+a {
+  text-decoration: none;
+}
+
+#Caja2 {
+  background-image: url(Akari.jpg);
+  background-size: cover;
+  width: 600px;
+  height: 450px;
+  border-radius: 10px;
+  color: white;
+  margin: right;
+  position: absolute;
+  top: 165px;
+  left: 670px;
+  padding: 5px;
+}
+
+#Caja3 {
+  background-image: url(Manaka.jpg);
+  background-size: cover;
+  width: 600px;
+  height: 450px;
+  border-radius: 10px;
+  margin: left;
+  text-align: center;
+  color: white;
+  position: relative;
+  left: 20px;
+  bottom: 30px;
+  padding: 5px;
+}
+
+
+#Caja4 {
+  background-image: url(Ruru.jpg);
+  background-size: cover;
+  width: 600px;
+  height: 450px;
+  border-radius: 10px;
+  margin: right;
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 635px;
+  left: 670px;
+  padding: 5px;
+}
+
+#Caja5 {
+  background-image: url(Rei.jpg);
+  background-size: cover;
+  width: 600px;
+  height: 450px;
+  border-radius: 10px;
+  margin: left;
+  text-align: center;
+  color: white;
+  position: relative;
+  left: 20px;
+  bottom: 20px;
+  padding: 5px;
+}
+
+#Caja6 {
+  background-image: url(Yume.jpg);
+  background-size: cover;
+  width: 600px;
+  height: 450px;
+  border-radius: 10px;
+  margin: right;
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 1105px;
+  left: 670px;
+  padding: 5px;
+}
+
+#Caja7 {
+  background-image: url(Riai.jpg);
+  background-size: cover;
+  width: 600px;
+  height: 450px;
+  border-radius: 10px;
+  margin: left;
+  text-align: center;
+  color: white;
+  position: relative;
+  left: 20px;
+  bottom: 10px;
+  padding: 5px;
+}
+
+#Caja8 {
+  background-image: url(Ichika.jpg);
+  background-size: cover;
+  width: 600px;
+  height: 450px;
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+  margin: right;
+  position: absolute;
+  top: 1575px;
+  left: 670px;
+  padding: 5px;
+}
+
+#Caja9 {
+  background-image: url(Risa.jpg);
+  background-size: cover;
+  width: 600px;
+  height: 450px;
+  border-radius: 10px;
+  margin: left;
+  text-align: center;
+  color: white;
+  position: relative;
+  left: 20px;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+#Caja10 {
+  background-image: url(Kisaki.jpg);
+  background-size: cover;
+  width: 600px;
+  height: 450px;
+  border-radius: 10px;
+  margin: right;
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 2045px;
+  left: 670px;
+  padding: 5px;
+}

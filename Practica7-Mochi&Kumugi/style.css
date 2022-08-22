@@ -1,0 +1,121 @@
+body {
+  background-color: #9c7253;
+}
+
+header {
+  background-color: #5e916e;
+  margin: -8px;
+  color: white;
+  font-size: 60px;
+}
+
+.Huellitas {
+  width: 50px;
+  height: 50px;
+}
+
+#Down {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  left: 850px;
+  top: 5px;
+}
+
+#TituloPrincipal {
+  text-align: center;
+  font-family: 'Itim', cursive;
+  font-size: 50px;
+  color: black;
+  text-shadow: 5px 5px #7d5b42;
+}
+
+#Foto-Familiar {
+  width: 550px;
+  height: 550px;
+  border-radius: 5px;
+  border-style: solid #985d57;
+  position: relative;
+  top: 15px;
+  left: 100px;
+  box-shadow: 5px 5px #7d5b42;
+}
+
+#Caja1 {
+  background-color: #7f915e;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  position: absolute;
+  bottom: 170px;
+  left: 700px;
+  color: white;
+  box-shadow: 5px 5px #7d5b42;
+}
+
+.Cositas-Dog {
+  width: 60px;
+  height: 60px;
+}
+
+#Caja2 {
+  background-color: #7f915e;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  position: absolute;
+  bottom: 170px;
+  left: 1000px;
+  color: white;
+  box-shadow: 5px 5px #7d5b42;
+}
+
+#Caja3 {
+  background-color: #7f915e;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  position: absolute;
+  bottom: -130px;
+  left: 700px;
+  color: white;
+  box-shadow: 5px 5px #7d5b42;
+}
+
+#Caja4 {
+  background-color: #7f915e;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  position: absolute;
+  bottom: -130px;
+  left: 1000px;
+  color: white;
+  box-shadow: 5px 5px #7d5b42;
+}
+
+p {
+  font-size: 20px;
+}
+
+footer {
+  background-color: #54719b;
+  margin: -8px;
+  margin-top: 100px;
+  padding: 15px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.redes {
+  text-align: center;
+  font-size: 17px;
+  margin-left: 30px;
+  position: relative;
+  left: 800px;
+  bottom: 15px;
+  text-decoration: none;
+}

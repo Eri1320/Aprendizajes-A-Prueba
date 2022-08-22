@@ -1,0 +1,93 @@
+header {
+  background-color: white;
+  margin: -8px;
+  font-size: 50px;
+  font-weight: bold;
+  color: Black;
+}
+
+body {
+  background-color: #1B2121;
+  color: white;
+}
+
+main {
+  position: relative;
+  top: 50px;
+  border-radius: 30px;
+  border-color: beige;
+  border-style: groove;
+  box-shadow: 10px 10px 10px 10px black;
+  width: 1000px;
+  height: 1650px;
+  margin: auto;
+}
+
+p {
+  position: relative;
+  left: 50px;
+  font-size: 18px;
+}
+
+footer {
+  background-color: white;
+  margin: -8px;
+  padding: 20px;
+  margin-top: 80px;
+  text-align: center;
+  color: black;
+}
+
+#Logo {
+  width: 50px;
+  height: 50px;
+}
+
+#Inicio {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  left: 920px;
+  margin-top: 10px;
+}
+
+#FotoPrincipal {
+  width: 900px;
+  height: 508px;
+  position: relative;
+  left: 50px;
+  bottom: 5px;
+  border-radius: 30px;
+  margin-bottom: 30px;
+}
+
+#Nombre-Titulo {
+  text-align: center;
+  font-size: 55px;
+}
+
+
+.TituloDos {
+  position: relative;
+  left: 50px;
+  font-size: 24px;
+}
+
+#lista {
+  position: relative;
+  left: 50px;
+}
+
+.Puntos {
+  font-size: 18px;
+}
+
+#Principal_Texto {
+  font-weight: bold;
+  text-align: left;
+  font-size: large;
+}
+
+a {
+  text-decoration: none;
+}
